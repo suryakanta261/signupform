@@ -4,7 +4,6 @@ import SignupForm from './components/SignupForm';
 
 function App() {
   return (
-    
     <>
       <SignupForm/>
       <UserList />

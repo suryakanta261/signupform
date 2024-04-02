@@ -8,7 +8,6 @@ function SignupForm() {
         password: '',
         confirmPassword: ''
     });
-
     const [error, setError] = useState({});
     const [isValid, setIsValid] = useState(false);
 
